@@ -1,2 +1,2 @@
 from . settings import *
-ALLOWED_HOSTS = ['13.125.108.168']
+ALLOWED_HOSTS = ['3.35.102.223']
